@@ -30,11 +30,11 @@ Yek Application Besazid Va Token Bot Ro Bardarid Va Dar Qesmate `.env ` Bejaie B
 TOKEN=BOT_TOKEN
 
 ```
-Sepas Be File `main.py` Beravid Va Dar Bakhsi Ke Neshan Dade Shode PREFIX Bot Khodra Bogzarid📬
+Sepas Be File `.env` Beravid Va Dar Bakhsi Ke Neshan Dade Shode PREFIX Bot Khodra Bogzarid📬
 
-```py
+```css
 
-client = commands.Bot(command_prefix = "place-prefix") 
+PREFIX=BOT_PREFIX
 
 ```
 Dar Akhar Sar Baraie Nasb Package Haie Lazem Baiadchan Chiz Ra Dar Terminal Bezanid🧸

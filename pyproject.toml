@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Nitro-Bot"
-version = "0.1.0"
+version = "4.2.0"
 description = "nitro generator bot source language python with SIZAR Team"
 authors = ["Mr.SIN RE#1528"]
 
