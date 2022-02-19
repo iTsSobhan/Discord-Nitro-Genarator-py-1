@@ -44,3 +44,5 @@ Dar Akhar Sar Baraie Nasb Package Haie Lazem Baiadchan Chiz Ra Dar Terminal Beza
 ` python3 -m pip `nasbe pip baraie nasbe package ha
 
 ` pip install -U discord.py `nasbe discord.py
+
+Thanks [Shervin](https://github.com/shervinbdndev)❤
